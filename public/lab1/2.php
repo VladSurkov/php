@@ -15,10 +15,10 @@
                 $c = "red";
             } 
             echo '<td bgcolor='.$c.'><font color="yellow">'.$i,$j.'</font></td>'; 
-        } /*end of for $j*/ 
+        }
         echo '</tr>'; 
     }
-    // 5 
+
     echo '</table>'; 
     echo '</body></html>'; 
 ?> 
